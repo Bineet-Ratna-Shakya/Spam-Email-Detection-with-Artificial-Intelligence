@@ -19,8 +19,8 @@ This project uses Machine Learning for spam email detection. Various algorithms 
    - Cross-validation to ensure robustness.
 
 3. **Results**
-   - Best model: [Specify best performing model]
-   - Highest accuracy: [Specify accuracy %]
+   - Best model: XG Boost
+   - Highest accuracy: Naive Bayes
 
 ## Conclusion
 Machine Learning effectively classifies spam emails. Future improvements may involve deep learning models like Bi-LSTM.
